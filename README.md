@@ -1,1 +1,1 @@
-"# Broderic_Blog" 
+"My shitty blog" 
