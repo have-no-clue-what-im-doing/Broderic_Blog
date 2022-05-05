@@ -1,73 +1,47 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Broderic Duncan"
-theme = "anubisBrodericBlog"
+baseurl = "/"
+title = "My site."
+copyright = "Copyright (c) 2017, all rights reserved."
+canonifyurls = true
+languageCode = "en-US"
 paginate = 3
+theme = "hugo-dusk"
 
-disqusShortname = ""
 googleAnalytics = ""
+disqusShortname = ""
 
 [author]
-name = "Broderic Duncan"
+  name = ""
+
+SectionPagesMenu = "main"
+
+# Configure syntax highlight
+[markup]
+  [markup.highlight]
+    style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[params.meta]
+  keywords = "blog, tech"
+  description = "Personal blog."
 
 [params]
-author = "Broderic Duncan"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
-dateFormat = "2006-01-02"
-paginationSinglePost = true
-style = "dark-without-switcher"
-readMore = false
-readNextPosts = 2
-copyCodeButton = true
-rssAsSocialIcon = true
-
-
-# Graphcomment support
-graphcommentId = ""
-
-# utteranc.es support
-utterancesRepo = ""  # mandatory
-utterancesTheme = "" # optional
-utterancesIssue = "" # optional
-utterancesLabel = "" # optional
-
-
-
-[[params.social]]
-id = "github"
-url = "https://github.com/have-no-clue-what-im-doing"
-
-[[params.social]]
-id = "email"
-url = "mailto:brodericjduncan@gmail.com"
-
-[[params.social]]
-id = "linkedin"
-url = "https://www.linkedin.com/in/broderic-duncan-292520196/"
-
-[menu]
-
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 1
-
-[[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 2
-
-[[menu.main]]
-name = "Archive"
-identifier = "archive"
-url = "/posts/"
-weight = 3
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-
-[markup.goldmark.renderer]
-unsafe = true
+  github = "github id"
+  gitlab = "gitlab id"
+  twitter = "twitter id"
+  linkedin = "linkedin id"
+  email = "myemail"
+  theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
+  utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
+  utterancesTheme="github-dark" # Default: github-dark
+  utterancesIssueTerm="pathname" # Default: pathname
