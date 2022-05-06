@@ -56,3 +56,4 @@ SectionPagesMenu = "main"
   utterancesTheme="github-dark" # Default: github-dark
   utterancesIssueTerm="pathname" # Default: pathname
   custom_css = ["css/custom.css"]
+  

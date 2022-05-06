@@ -6,7 +6,7 @@
 <meta name="keywords" content="{{ .Site.Params.meta.keywords }}" />
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 {{ partial "favicon.html" . }}
-{{ hugo.Generator }}
+
 
 {{ range .Site.Params.custom_css -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
