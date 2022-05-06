@@ -48,8 +48,8 @@ SectionPagesMenu = "main"
   description = "Personal blog."
 
 [params]
-  github = "https://github.com/have-no-clue-what-im-doing"
-  linkedin = "https://www.linkedin.com/in/dontputnamehere/"
+  github = "have-no-clue-what-im-doing"
+  linkedin = "dontputnamehere"
   email = "brodericjduncan@gmail.com"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
