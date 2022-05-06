@@ -20,13 +20,19 @@ SectionPagesMenu = "main"
     style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
 
 [[menu.main]]
+  name = "Home"
+  weight = -130
+  identifier = "home"
+  url = "/index.html"
+
+[[menu.main]]
   name = "Archive"
   weight = -120
   identifier = "post"
   url = "/post/"
 
 [[menu.main]]
-  name = "Tags"
+  name = "Topics"
   weight = -110
   identifier = "tag"
   url = "/tags/"
@@ -42,10 +48,11 @@ SectionPagesMenu = "main"
   description = "Personal blog."
 
 [params]
-  github = "github id"
-  linkedin = "linkedin id"
+  github = "https://github.com/have-no-clue-what-im-doing"
+  linkedin = "https://www.linkedin.com/in/dontputnamehere/"
   email = "brodericjduncan@gmail.com"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
   utterancesTheme="github-dark" # Default: github-dark
   utterancesIssueTerm="pathname" # Default: pathname
+  custom_css = ["css/custom.css"]
