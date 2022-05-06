@@ -11,21 +11,23 @@
 <meta name="generator" content="Hugo 0.98.0" />
 
 <link rel="canonical" href="/">
-<meta property="og:title" content="" />
+<meta property="og:title" content="Broderic Duncan" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content=""/>
+<meta name="twitter:title" content="Broderic Duncan"/>
 <meta name="twitter:description" content=""/>
 
 
-<meta itemprop="name" content="">
+<meta itemprop="name" content="Broderic Duncan">
 <meta itemprop="description" content="">
 
 <link rel="stylesheet" href="/css/layout.css" />
+
+
 
 
 <link rel="stylesheet" href="/css/default-dark.css" />
@@ -36,7 +38,7 @@
 <title>
 
 
-      
+     Broderic Duncan 
 
 </title>
 
@@ -51,14 +53,18 @@
 
   <nav>
     <div class="siteTitle">
-      <a href="/">My site.</a>
+      <a href="/">Broderic Duncan</a>
     </div> 
 
     
     
-    <a class="nav-item" href="/post/"><div class="nav-item-title">Posts</div></a>
+    <a class="nav-item" href="/post/"><div class="nav-item-title">Archive</div></a>
     
     <a class="nav-item" href="/tags/"><div class="nav-item-title">Tags</div></a>
+    
+    <a class="nav-item" href="/tags/index.xml"><div class="nav-item-title">RSS</div></a>
+    
+    <a class="nav-item" href="/about/"><div class="nav-item-title">About</div></a>
     
 
   </nav>
@@ -67,7 +73,7 @@
 <div class="social-links-header">
 
   
-  <a href="mailto:myemail"><div class="social-link">email</div></a>
+  <a href="mailto:brodericjduncan@gmail.com"><div class="social-link">email</div></a>
   
 
   
@@ -75,11 +81,7 @@
   
 
   
-  <a href="https://gitlab.com/gitlab%20id" target="_blank"><div class="social-link">gl</div></a>
-  
 
-  
-  <a href="https://twitter.com/twitter%20id" target="_blank"><div class="social-link">twtr</div></a>
   
 
   
@@ -102,19 +104,13 @@
     <article class="post-preview">
 
   <header>
-    <h2 class="title"> <a href='/post/hidden-post/'> Hidden Post</a> </h2>
+    <h2 class="title"> <a href='/post/creating-a-new-theme/'> Creating a New Theme</a> </h2>
     <div class="meta">
       <div class="date">
-      24 Dec, 2021 - 1 minutes
+      28 Sep, 2014 - 34 minutes
       </div>
       
 <div class="tags">
-  
-    
-      <div class="tag">
-        <a href="/tags/privacy">#privacy</a>
-      </div>
-    
   
 </div>
 
@@ -123,11 +119,12 @@
   </header>
 
   <div class="summary">
-    This is hidden post
+    Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
+We&rsquo;ll start with creating a new site with a very basic template.
   </div>
 
   <div class="rmore">
-    <a href='/post/hidden-post/' class="rmore">Read more</a>
+    <a href='/post/creating-a-new-theme/' class="rmore">Read more</a>
   </div>
 
 
@@ -137,31 +134,35 @@
     <article class="post-preview">
 
   <header>
-    <h2 class="title"> <a href='/post/markdown-syntax/'> Markdown Syntax Guide</a> </h2>
+    <h2 class="title"> <a href='/post/goisforlovers/'> (Hu)go Template Primer</a> </h2>
     <div class="meta">
       <div class="date">
-      11 Mar, 2019 - 3 minutes
+      2 Apr, 2014 - 7 minutes
       </div>
       
 <div class="tags">
   
     
       <div class="tag">
-        <a href="/tags/markdown">#markdown</a>
+        <a href="/tags/go">#go</a>
       </div>
     
       <div class="tag">
-        <a href="/tags/css">#css</a>
+        <a href="/tags/golang">#golang</a>
       </div>
     
       <div class="tag">
-        <a href="/tags/html">#html</a>
+        <a href="/tags/templates">#templates</a>
       </div>
     
       <div class="tag">
         <a href="/tags/themes">#themes</a>
       </div>
     
+      <div class="tag">
+        <a href="/tags/development">#development</a>
+      </div>
+    
   
 </div>
 
@@ -170,11 +171,12 @@
   </header>
 
   <div class="summary">
-    <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+    Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.
   </div>
 
   <div class="rmore">
-    <a href='/post/markdown-syntax/' class="rmore">Read more</a>
+    <a href='/post/goisforlovers/' class="rmore">Read more</a>
   </div>
 
 
@@ -184,21 +186,29 @@
     <article class="post-preview">
 
   <header>
-    <h2 class="title"> <a href='/post/rich-content/'> Rich Content</a> </h2>
+    <h2 class="title"> <a href='/post/hugoisforlovers/'> Getting Started with Hugo</a> </h2>
     <div class="meta">
       <div class="date">
-      10 Mar, 2019 - 1 minutes
+      2 Apr, 2014 - 2 minutes
       </div>
       
 <div class="tags">
   
     
       <div class="tag">
-        <a href="/tags/shortcodes">#shortcodes</a>
+        <a href="/tags/go">#go</a>
       </div>
     
       <div class="tag">
-        <a href="/tags/privacy">#privacy</a>
+        <a href="/tags/golang">#golang</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/hugo">#hugo</a>
+      </div>
+    
+      <div class="tag">
+        <a href="/tags/development">#development</a>
       </div>
     
   
@@ -209,11 +219,16 @@
   </header>
 
   <div class="summary">
-    <p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
+    Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:
   </div>
 
   <div class="rmore">
-    <a href='/post/rich-content/' class="rmore">Read more</a>
+    <a href='/post/hugoisforlovers/' class="rmore">Read more</a>
   </div>
 
 
@@ -246,7 +261,7 @@
   <div class="social-links-footer">
 
   
-  <a href="mailto:myemail"><div class="social-link">Email</div></a>
+  <a href="mailto:brodericjduncan@gmail.com"><div class="social-link">Email</div></a>
   
 
   
@@ -254,11 +269,7 @@
   
 
   
-  <a href="https://gitlab.com/gitlab%20id" target="_blank"><div class="social-link">GitLab</div></a>
-  
 
-  
-  <a href="https://twitter.com/twitter%20id" target="_blank"><div class="social-link">Twitter</div></a>
   
 
   
@@ -272,7 +283,7 @@
 </div>
 
 
-  <div class="copyright"> Copyright (c) 2017, all rights reserved. </div>
+  <div class="copyright"> Copyright &copy; 2022, all rights reserved. </div>
 
   <div class="poweredby">
     Powered by <a href="https://gohugo.io/">Hugo</a>.
