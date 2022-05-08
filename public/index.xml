@@ -9,6 +9,15 @@
     <copyright>Copyright &amp;copy; 2022, all rights reserved.</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, I&amp;rsquo;m Broderic. I was born in the 20th century and currently live in the Mid-West. As of right now I attend the University of Cincinnati and am pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. The second being I want to also to document any projects I&amp;rsquo;m working on.</description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
