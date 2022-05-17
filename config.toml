@@ -26,6 +26,12 @@ SectionPagesMenu = "main"
   url = "/index.html"
 
 [[menu.main]]
+  name = "About"
+  weight = -130
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
   name = "Archive"
   weight = -120
   identifier = "post"

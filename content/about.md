@@ -1,11 +1,10 @@
 +++
 title = "About Me"
 date = "2022-05-07"
-menu = "main"
-weight = -130
+
 +++
 
-Hi, I'm Broderic. I was born in the 20th century and currently live in the Mid-West. As of right now I attend the University of Cincinnati and am pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. The second being I want to also to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
+Hi, I'm Broderic. Born in the 20th centurary; participating in the 21st. As of right now I attend the University of Cincinnati and am pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. The second being I want to also to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
 
 ## Previous IT Experience:
 
@@ -13,12 +12,27 @@ Hi, I'm Broderic. I was born in the 20th century and currently live in the Mid-W
 
 *October 2021 - February 2022*
 
-This was my first true IT job. This was an entry level help desk support position where I did a little bit of everything. The company had around 70 employees in multiple locations. Some worked remote while others worked in person. There were 3 other IT employees. My manager, a network engineer, and a Salesforce specialist. Both the network engineer and Salesforce specialist worked remote. For the most part it was my manager and I doing most of the day to day IT support. My worked mostly involved the following:
-* Active Directory 
+This was my first true IT job. This was an entry level help desk support position where I did a little bit of everything. The company had around 70 employees in multiple locations. Some worked remote while others worked in person. There were 3 other IT employees. My manager, a network engineer, and a Salesforce specialist. Both the network engineer and Salesforce specialist worked remote. For the most part it was my manager and I doing most of the day to day IT support. My worked mostly involved the following: 
+
+
+
+* Active Directory & Google Admin
 	* Resetting passwords, adding and removing users
 * CBTS
 	* Configuring accounts 
-	* Making sure phone numbers were being forwarded to the correct desk phone
+	* Making sure phone numbers were being forwarded correctly
+	* Connecting CBTS accounts to Webex
+* Meraki
+	* Configuring accounts
+	* Resetting & setting up mobile devices 
+	
+
+
+
+
+
+
+
 
 
 
