@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 {{ partial "favicon.html" . }}
 
-
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e8b38f3c69a24b4f93d2298aa3574a36"}'></script>
 {{ range .Site.Params.custom_css -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
 {{- end }}
