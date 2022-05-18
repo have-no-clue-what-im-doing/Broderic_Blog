@@ -4,7 +4,7 @@ date = "2022-05-07"
 
 +++
 
-Hi, I'm Broderic. Born in the 20th centurary; participating in the 21st. As of right now I attend the University of Cincinnati and am pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. The second being I want to also to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
+Hi I'm Broderic and I have no clue how to use computers.
 
 ## Previous IT Experience:
 
@@ -25,6 +25,7 @@ This was my first true IT job. This was an entry level help desk support positio
 * Meraki
 	* Configuring accounts
 	* Resetting & setting up mobile devices 
+
 	
 
 
