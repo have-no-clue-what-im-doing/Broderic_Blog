@@ -1,12 +1,12 @@
 baseurl = "/"
 title = "Broderic Duncan"
-copyright = "Copyright &copy; 2022, all rights reserved."
+copyright = "Copyright &copy; 2022, all rights reserved. Yeah, that's right, I'll sue your ass if you steal my shit"
 canonifyurls = true
 languageCode = "en-US"
 paginate = 3
 theme = "hugo-dusk"
 
-googleAnalytics = ""
+googleAnalytics = "G-C2V85PG0ZN"
 disqusShortname = ""
 
 [author]
