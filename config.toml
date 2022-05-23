@@ -6,7 +6,7 @@ languageCode = "en-US"
 paginate = 3
 theme = "hugo-dusk"
 
-googleAnalyticsID = "G-C2V85PG0ZN"
+
 disqusShortname = ""
 
 [author]
@@ -62,4 +62,4 @@ SectionPagesMenu = "main"
   utterancesTheme="github-dark" # Default: github-dark
   utterancesIssueTerm="pathname" # Default: pathname
   custom_css = ["css/custom.css"]
-  
+  googleAnalyticsID = "G-C2V85PG0ZN"
