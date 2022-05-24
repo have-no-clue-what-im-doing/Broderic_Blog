@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Broderic Duncan</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Broderic Duncan</description>
+    <title>why did i make this in hugo? on Broderic Duncan</title>
+    <link>/tags/why-did-i-make-this-in-hugo/</link>
+    <description>Recent content in why did i make this in hugo? on Broderic Duncan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2022 😎</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/tags/why-did-i-make-this-in-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>/post/creating-a-new-theme/</link>

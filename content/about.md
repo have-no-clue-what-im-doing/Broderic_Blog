@@ -59,11 +59,76 @@ I've decided probably the best and most practical way of doing this is to just w
 * Pentest+
 * OSCP
 
-About to start studying for the Security+ Should take me about a month to complete. I already have a decent amount of expereince with linux, use it for a lot of IT classes, but I want to really have an in-depth understanding of it. Think Linux+ should probably take me 2-3 months. I've read the CYSA+ is pretty difficult. Think it'd probably take me 4-8 months. Want to take this before the Pentest+ as I've read it makes taking the Pentest+ much easier. Pentest+ will probably take another 4-8 months. I believe after passing all four of those certs, it'll make studying for the OSCP a little bit easier.
+About to start studying for the Security+ Should take me about a month to complete. I already have a decent amount of expereince with linux, use it for a lot of IT classes, but I want to really have an in-depth understanding of it. Think Linux+ should probably take me 2-3 months. I've read the CYSA+ is pretty difficult. Think it'd probably take me 4-8 months. Want to take this before the Pentest+ as I've read it makes taking the Pentest+ much easier. Pentest+ will probably take another 4-8 months. I believe after passing all four of those certs, it'll make studying for the OSCP a little bit easier. I think the OSCP will probably take 8-12 months to complete. Of course all these time estimates are kind of arbitrary. I honestly have no clue how long it'll take me to complete any of these certs. Many factors go into how long it can take someone complete a cert. A bunch of life stuff can get in the way, shoving certs to the bottom of priorites. Hopefully within the next five years or so I'll have most of these completed. 
 
+My thoughts on certifications is that they are dedfintley not the end all be all. I think it's more important if you really learn and understand the material you study for than to just pass. Another thing with certs is that their reputation can change very quickly. Say maybe in a couple years the OSCP sucks for whatever reason and isn't as reputible as it once was. I may just take it anyways because I know I'll learn a ton and that's what truly matters. When I was studying for the Network+ exam I read Mike Meyer's textbook front to back and took notes. By the end of reading the entire thing I had learned so much about networking. I think part of it is that it forces to memorize so much, and with these exams you can't just get by with memorization. You need to understand the actual concepts as well. This combination of memorizing and understanding concepts and topics really helps with learning new material.
 
+This list isn't final either. Maybe I decide to take the eJPT or CEH instead. Doesn't really matter to me. I like certifications because for me it's a great method for me to learn new material. Having to spend $200+ per exam is also a really great motivator to make sure you pass on your first try. It forces you to study in a very efficient manner.
 
+The end goal is defintley pentester, but goals can change. Maybe I'm content with being a SysAdmin or something. Two other fields I wouldn't mind participating in are malware analysis and digital forensics. As with pentesting, these are two are both way way up there in the whole IT heirarchy. Overall, I don't think it matters too much what I'm learning. THe most important thing is to make sure I'm always learning in some way. Whether that be with my job, certs, CTF's ect. The worst thing you can do in the IT field is stop learning. Eventually that will catch up to you and you won't have a job. 
 
+---
 
+## Books
 
+#### Recommended:
 
+* *Sandworm*, Andy Greenberg
+* *Steve Jobs*, Walter Isaacson
+* *Elon Musk*, Ashlee Vance
+* *Ghost in the Wires*, Kevin Mitnick
+* *Countdown to Zero Day*, Kim Zetter
+* *The Cuckoo's Egg*, Clifford Stoll
+* *The Art of Invisibility*, Keivin Mitnick
+* *Atomic Habits*, James Clear
+
+Textbooks:
+
+* *CompTIA Network+ / Seventh Edition*, Mike Meyers
+* *Open Source Intelligence Technqiues*, Michael Bazzell
+* *Extreme Privacy: What It Takes to Disappear*, Michael Bazzell
+
+### To Be Read: 
+
+* *The Art of Deception*, Kevin Mitnick
+* *The Big Short*, Michael Lewis
+* *Flash Boys*, Michael Lewis
+* *Longitude*, Dava Sobel
+* *Empires of Light*, Jill Jonnes
+* *American Kingpin*, Nick Bilton
+* *This Is How They Tell Me the World Ends*, Nicole Perlroth
+* *Cyber Mercenaries*, Tim Maurer
+* *UNIX: A History and a Memoir*, Brian Kernighan
+
+---
+
+## Video
+
+* [John Hammond](https://www.youtube.com/c/JohnHammond010)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [Professor Messer](https://www.youtube.com/c/professormesser)
+* [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+* [David Bombal](https://www.youtube.com/c/DavidBombal)
+* [HackerSploit](https://www.youtube.com/c/HackerSploit)
+* [Jim Browning](https://www.youtube.com/c/JimBrowning)
+* [Kitboga](https://www.youtube.com/c/KitbogaShow)
+* [Michael Reeves](https://www.youtube.com/c/MichaelReeves)
+* [William Osman](https://www.youtube.com/c/williamosman)
+
+---
+
+## Podcasts
+
+* [Darknet Diaries](https://darknetdiaries.com)
+* [Hacked](https://pca.st/hacked)
+
+---
+
+## Contact
+
+Email: brodericjduncan [at] gmail [dot] com
+
+[Linkedin](https://www.linkedin.com/in/dontputnamehere/)
+
+[Github](https://github.com/have-no-clue-what-im-doing)
