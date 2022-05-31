@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2022 😎</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Hugo</title>
+      <link>/post/thoughts-on-hugo/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thoughts-on-hugo/</guid>
+      <description>I orginally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&amp;rsquo;s site. You can scroll to the bottom to get an exact example of what I&amp;rsquo;m talking about. If you click on the link you can see Hugo advertised as: &amp;ldquo;One of the most popular open-source static site generators.&amp;rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with.</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>/about/</link>
@@ -16,15 +25,6 @@
       <guid>/about/</guid>
       <description>Hi I&amp;rsquo;m Broderic and I have no clue how to use computers.
 I&amp;rsquo;m currently persuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. The second being I want to document any projects I&amp;rsquo;m working on. Documentation is a huge part of IT and I don&amp;rsquo;t think it hurts to practice that skill every now and then.</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>/post/creating-a-new-theme/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/creating-a-new-theme/</guid>
-      <description>Hugo is interesting&amp;hellip; This will be my rant on hugo. Why it&amp;rsquo;s amazing and also completely stupid.</description>
     </item>
     
   </channel>
