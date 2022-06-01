@@ -124,7 +124,7 @@
 
 <article class="post">
     <h1 class="title"> Thoughts on Hugo </h1>
-    <div class="content"> <p>I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&rsquo;s site. You can scroll to the bottom to get an exact example of what I&rsquo;m talking about. If you click on the link you can see Hugo advertised as: &ldquo;One of the most popular open-source static site generators.&rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world&rsquo;s fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specially wanted to create my site as a blog and hugo seemed perfect for that. If you look at the <a href="https://themes.gohugo.io" target="_blank">
+    <div class="content"> <p>I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&rsquo;s site. You can scroll to the bottom to get an exact example of what I&rsquo;m talking about. If you click on the link you can see Hugo advertised as: &ldquo;One of the most popular open-source static site generators.&rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world&rsquo;s fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specifically wanted to create my site as a blog and hugo seemed perfect for that. If you look at the <a href="https://themes.gohugo.io" target="_blank">
   themes
 </a> for hugo it&rsquo;s mostly just blogs.</p>
 <p>Once I came across the hugo-dusk theme I decided that I was going to create my blog with Hugo. Before, I was considering Jekyll or Wordpress, but once I saw the hugo-dusk theme I made up my mind immediately and installed Hugo. I started reading the documentation and it looked a little confusing, but I wasn&rsquo;t discouraged. Once I actually started creating my site I quickly realized Hugo was kind of a pain in the ass. Over time I came to the conclusion that the Hugo <a href="https://news.ycombinator.com/item?id=30527884" target="_blank">
@@ -153,7 +153,7 @@
 <p>One particular thing I didn&rsquo;t really like about the theme was that the body width was too narrow. I wanted it to be a bit wider. The easy and straightforward way of going about fixing this would be to just change the body width property. But I can&rsquo;t just go to the theme&rsquo;s css file and change it manually since the theme is a submodule. I have to overwrite it. So in order to do that I have to go to: static\css\custom.css and put in my css. In order for Hugo to accept my custom CSS I have to let my config file know. So under params I put:</p>
 <pre><code>custom_css = [&quot;css/custom.css&quot;]
 </code></pre>
-<p>But it&rsquo;s not working. Why? because the theme wasn&rsquo;t ever set up to accept css overwrites. So now I have to overwrite the html in order to get the theme to accept my css. I navigate to:</p>
+<p>But it&rsquo;s not working. Why? Because the theme wasn&rsquo;t ever set up to accept css overwrites. So now I have to overwrite the html in order to get the theme to accept my css. I navigate to:</p>
 <pre><code>User\Hugo\MyBlog  
 
 |-layouts

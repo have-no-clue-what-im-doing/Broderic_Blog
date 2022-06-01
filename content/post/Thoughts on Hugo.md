@@ -11,7 +11,7 @@ date = "2022-05-29"
 
 
 
-I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo's site. You can scroll to the bottom to get an exact example of what I'm talking about. If you click on the link you can see Hugo advertised as: "One of the most popular open-source static site generators." Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world's fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specially wanted to create my site as a blog and hugo seemed perfect for that. If you look at the [themes](https://themes.gohugo.io) for hugo it's mostly just blogs. 
+I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo's site. You can scroll to the bottom to get an exact example of what I'm talking about. If you click on the link you can see Hugo advertised as: "One of the most popular open-source static site generators." Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world's fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specifically wanted to create my site as a blog and hugo seemed perfect for that. If you look at the [themes](https://themes.gohugo.io) for hugo it's mostly just blogs. 
 
 Once I came across the hugo-dusk theme I decided that I was going to create my blog with Hugo. Before, I was considering Jekyll or Wordpress, but once I saw the hugo-dusk theme I made up my mind immediately and installed Hugo. I started reading the documentation and it looked a little confusing, but I wasn't discouraged. Once I actually started creating my site I quickly realized Hugo was kind of a pain in the ass. Over time I came to the conclusion that the Hugo [documentation sucks.](https://news.ycombinator.com/item?id=30527884)  To say it's confusing would be an understatement. I think part of the problem was that I'd never used a static site generator before so everything I was doing was brand new to me. 
 
@@ -39,7 +39,7 @@ One particular thing I didn't really like about the theme was that the body widt
 
     custom_css = ["css/custom.css"]
 	
-But it's not working. Why? because the theme wasn't ever set up to accept css overwrites. So now I have to overwrite the html in order to get the theme to accept my css. I navigate to: 
+But it's not working. Why? Because the theme wasn't ever set up to accept css overwrites. So now I have to overwrite the html in order to get the theme to accept my css. I navigate to: 
     
 	User\Hugo\MyBlog  
 	
