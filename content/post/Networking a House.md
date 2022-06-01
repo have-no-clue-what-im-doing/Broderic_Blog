@@ -10,6 +10,6 @@ date = "2022-06-01"
 
 test
 
-![fawk](/one.jpg)
+![Network closet before](/networking/one.jpg)
 
 
