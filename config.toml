@@ -47,7 +47,7 @@ SectionPagesMenu = "main"
   name = "RSS"
   weight = -100
   identifier = "rss"
-  url = "/tags/index.xml"
+  url = "/post/index.xml"
 
 [params.meta]
   keywords = "blog, tech"

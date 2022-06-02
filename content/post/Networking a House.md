@@ -22,4 +22,13 @@ There was even a 66 block in use at one point:
 
 Just a bunch of early 2000s crap that no one had any use for anymore. At this point the house had 3 AP's and 1 AP in the pool house / AirBNB. The tiny 8 port switch was getting full. My parents had recently switch to YoutubeTV which requires large amounts of bandwidth to stream reliably. I knew the best thing to would be to have all the TV's hardwired instead of relying on Wifi. Wifi is honestly kind of annoying, especially with multiple AP's. You have to make sure all the AP's are on different channels and that their gain isn't too low or high. Also placement and direction are important too. It's really hard to optimize everything. 
 
-Originally we were using ancient Unifi AP's from like 2012 that only used the 2.4 GHz frequency. As far as channels go we were at our limit. With 5 GHz you have 24 non-overlapping channels. And when we upgraded to the Unifi 6 AP's they made a huge difference, but the spots I had chosen to place the AP's wasn't the most optimal. If I could connect every single Ethernet port to a switch I could easily go through a trial and error and find the most optimal placement for the AP's. 
+Originally we were using ancient Unifi AP's from like 2012 that only used the 2.4 GHz frequency. As far as channels go we were at our limit. With 5 GHz you have 24 non-overlapping channels. And when we upgraded to the Unifi 6 AP's they made a huge difference, but the original spots I had chosen to place the AP's wasn't the most optimal. If I could connect every single Ethernet port to a switch I could easily go through a trial and error and find the most optimal placement for the AP's. 
+
+To begin I had to convert a bunch of RJ-11's to RJ-45. Most rooms only had RJ-11 keystones put in place. Had to change the keystone out for an RJ-45. Once that was complete I then had to trace the cable all the way down to the network closet and then labeled them using sticky notes. 
+
+![Labeling Ethernet with sticky notes.](/networking/three.jpg)
+
+Once that was complete I then was able to start punching down the wires onto the patch panel. One I mistake I made here was not getting a patch panel with a hinge on it. This made it a little more awkward and harder to access the patch panel. I had to just place it a shelf that was already mounted to the wall. If I had just gotten a patch panel with a hinge I could've just attached the patch panel to the wall mount and then opened at an angle that would've made it easy to punch down the wires. 
+
+![Attaching Ethernet to patch panel.](/networking/four.jpg)
+
