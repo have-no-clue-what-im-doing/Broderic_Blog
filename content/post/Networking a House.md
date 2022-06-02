@@ -37,3 +37,5 @@ Once that was complete I then was able to start punching down the wires onto the
 Once that was complete I then attached both the patch panel and switch to the wall mount:
 
 ![Attaching Ethernet to patch panel.](/networking/six.jpg)
+
+
