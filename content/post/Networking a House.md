@@ -12,7 +12,7 @@ So before I began this project, it was clear that the network closet was a mess:
 
 ![Network closet is a huge mess.](/networking/one.jpg)
 
-Wires and cables everywhere. The patch panel is unorganized. There's so much crap everywhere you can't even tell what's going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial. When installing Unifi AP's around the house I traced them down to here and connected them all to a switch. The reason you don't see a router or modem is because those are in a totally different room. For whatever reason the demark doesn't lead to the network closet. I'm sure there's a way I can trace it to the network closet, but then I'd have to invest in a multimeter, which I don't want to do just to trace coaxial. 
+Wires and cables everywhere. The patch panel is unorganized. There's so much crap everywhere you can't even tell what's going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial. When installing Unifi AP's around the house I traced them down to here and connected them all to a switch. The reason you don't see a router or modem is because those are in a totally different room. For whatever reason the demarc doesn't lead to the network closet. I'm sure there's a way I can trace it to the network closet, but then I'd have to invest in a multimeter, which I don't want to do just to trace coaxial. 
 
 The house was originally wired in around the year 2000 and I am so thankful they actually wired it with cat5e. Would cost a fortune to have someone come in and rewire everything. Like there's no crawl space or attic that you can lead the wires through. It's all hard wired in. Half the crap on the wall is completely useless. That white mounted container thing is like some ancient security system.
 
@@ -28,7 +28,12 @@ To begin I had to convert a bunch of RJ-11's to RJ-45. Most rooms only had RJ-11
 
 ![Labeling Ethernet with sticky notes.](/networking/three.jpg)
 
-Once that was complete I then was able to start punching down the wires onto the patch panel. One I mistake I made here was not getting a patch panel with a hinge on it. This made it a little more awkward and harder to access the patch panel. I had to just place it a shelf that was already mounted to the wall. If I had just gotten a patch panel with a hinge I could've just attached the patch panel to the wall mount and then opened at an angle that would've made it easy to punch down the wires. 
+Once that was complete I then was able to start punching down the wires onto the patch panel. One I mistake I made here was not getting a patch panel with a hinge on it. This made it a little more awkward and harder to access the patch panel. I had to attach it upside down on the wall mount while it was resting on a shelf. If I had just gotten a patch panel with a hinge I could've attached the patch panel to the wall mount and then opened it at an angle that would've made it easy to punch down the wires. 
 
 ![Attaching Ethernet to patch panel.](/networking/four.jpg)
 
+![Attaching Ethernet to patch panel.](/networking/five.jpg)
+
+Once that was complete I then attached both the patch panel and switch to the wall mount:
+
+![Attaching Ethernet to patch panel.](/networking/six.jpg)
