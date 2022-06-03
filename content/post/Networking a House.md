@@ -20,7 +20,7 @@ There was even a 66 block in use at one point:
 
 ![66 block](/networking/two.jpg)
 
-Just a bunch of early 2000s crap that no one had any use for anymore. At this point the house had 3 AP's and 1 AP in the pool house / AirBNB. The tiny 8 port switch was getting full. My parents had recently switch to YoutubeTV which requires large amounts of bandwidth to stream reliably. I knew the best thing to would be to have all the TV's hardwired instead of relying on Wifi. Wifi is honestly kind of annoying, especially with multiple AP's. You have to make sure all the AP's are on different channels and that their gain isn't too low or high. Also placement and direction are important too. It's really hard to optimize everything. 
+Just a bunch of early 2000s crap that no one had any use for anymore. At this point the house had 3 AP's and 1 AP in the pool house / AirBNB. The tiny 8 port switch was getting full. My parents had recently switched to YoutubeTV which requires large amounts of bandwidth to stream reliably. I knew the best thing to would be to have all the TV's hardwired instead of relying on Wifi. Wifi is honestly kind of annoying, especially with multiple AP's. You have to make sure all the AP's are on different channels and that their gain isn't too low or high. Also placement and direction are important too. It's really hard to optimize everything. 
 
 Originally we were using ancient Unifi AP's from like 2012 that only used the 2.4 GHz frequency. As far as channels go we were at our limit. With 5 GHz you have 24 non-overlapping channels. And when we upgraded to the Unifi 6 AP's they made a huge difference, but the original spots I had chosen to place the AP's wasn't the most optimal. If I could connect every single Ethernet port to a switch I could easily go through a trial and error and find the most optimal placement for the AP's. 
 
@@ -38,4 +38,17 @@ Once that was complete I then attached both the patch panel and switch to the wa
 
 ![Attaching Ethernet to patch panel.](/networking/six.jpg)
 
+All that was left after that was the Unifi PoE injectors and a Raspberry Pi for the AP controller:
 
+![Attaching Ethernet to patch panel.](/networking/seven.jpg)
+
+So, obviously, there is a lot long with this picture. First, I'm not even using a surge protector, just a power strip. One lightning strike could take out everything in that picture. Another problem is that the Ethernet connecting from the patch panel to the switch is way too long. I chose 4 feet because I was worried it could be too short. Much better for it to be too long than too short. PoE injectors need to be hung up along with the Pi as well. Cable management also needs some work too. Overall though, everything is working fine. Top priority is to definitely switch out that power strip for a surge protector. 
+
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="/networking/videoone.mov" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
