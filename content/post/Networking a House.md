@@ -42,13 +42,13 @@ All that was left after that was the Unifi PoE injectors and a Raspberry Pi for 
 
 ![Attaching Ethernet to patch panel.](/networking/seven.jpg)
 
-So, obviously, there is a lot long with this picture. First, I'm not even using a surge protector, just a power strip. One lightning strike could take out everything in that picture. Another problem is that the Ethernet connecting from the patch panel to the switch is way too long. I chose 4 feet because I was worried it could be too short. Much better for it to be too long than too short. PoE injectors need to be hung up along with the Pi as well. Cable management also needs some work too. Overall though, everything is working fine. Top priority is to definitely switch out that power strip for a surge protector. 
+So, obviously, there is a lot wrong with this picture. First, I'm not even using a surge protector, just a power strip. One lightning strike could take out everything in that picture. Another problem is that the Ethernet connecting from the patch panel to the switch is way too long. I chose 4 feet because I was worried it could be too short. Much better for it to be too long than too short. PoE injectors need to be hung up along with the Pi as well. Cable management also needs some work too. Overall though, everything is working fine. Top priority is to definitely switch out that power strip for a surge protector. 
 
 Here's a before and after:
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls >
     <source src="/networking/videoone.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
@@ -58,7 +58,7 @@ Here's a before and after:
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls >
     <source src="/networking/videotwo.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
