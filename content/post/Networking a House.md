@@ -65,4 +65,4 @@ Here's a before and after:
 
 {{< /rawhtml >}}
 
-Lots of work still be to done. I have yet to take advantage of all the connected etherenet ports. Still haven't tried optimizing the position of the AP's. The reality is that after messing with the settings more, the current WiFi situation is good enough. The biggest issue is with the roaming. When a device is moved around the house but still communicates with its original AP instead an AP that is now closer. I'll definitely make a post detailing Wifi optimization with diagrams and specific settings. For now, I am content with this set up. 
+Lots of work still be to done. I have yet to take advantage of all the connected etherenet ports. Still haven't tried optimizing the position of the AP's. The reality is that after messing with the settings more, the current WiFi situation is good enough. The biggest issue is with the roaming. Which is when a device is moved around the house but still communicates with its original AP instead an AP that is now closer. I'll definitely make a post detailing WiFi optimization with diagrams and specific settings. For now, I am content with this set up. 
