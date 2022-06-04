@@ -84,7 +84,7 @@ My thoughts on certifications is that they are definitely not the end all be all
 
 This list isn't final either. Maybe I decide to take the eJPT or CEH instead. Doesn't really matter to me. I like certifications because for me it's a great method for me to learn new material. Having to spend $200+ per exam is also a really great motivator to make sure you pass on your first try. It forces you to study in a very efficient manner.
 
-The end goal is definitely pentester, but goals can change. Maybe I'm content with being a SysAdmin or something. Two other fields I wouldn't mind participating in are malware analysis and digital forensics. As with pentesting, these are two are both way way up there in the whole IT heirarchy. Overall, I don't think it matters too much what I'm learning. The most important thing is to make sure I'm always learning in some way. Whether that be with my job, certs, CTF's ect. The worst thing you can do in the IT field is stop learning. Eventually that will catch up to you and you won't have a job. 
+The end goal is definitely pentester, but goals can change. Maybe I'm content with being a SysAdmin or something. Two other fields I wouldn't mind participating in are malware analysis and digital forensics. As with pentesting, these two are both way way up there in the whole IT hierarchy. Overall, I don't think it matters too much what I'm learning. The most important thing is to make sure I'm always learning in some way. Whether that be with my job, certs, CTF's ect. The worst thing you can do in the IT field is stop learning. Eventually that will catch up to you and you won't have a job. 
 
 ---
 
