@@ -12,7 +12,7 @@ I'm currently pursuing a degree in IT with a focus on cybersecurity. I created t
 
 ## Previous IT Experience:
 
-#### Catholic Charities Southwestern Ohio - IT Supppot Co-op 
+#### Catholic Charities Southwestern Ohio - IT Support Co-op 
 
 *October 2021 - February 2022*
 
@@ -80,7 +80,7 @@ I think the OSCP will probably take 8-12 months to complete.
 
 Of course all these time estimates are kind of arbitrary. I honestly have no clue how long it'll take me to complete any of these certs. Many factors go into how long it can take someone complete a cert. A bunch of life stuff can get in the way, shoving certs to the bottom of priorities. Hopefully within the next five years or so I'll have most of these completed. 
 
-My thoughts on certifications is that they are definitely not the end all be all. I think it's more important if you really learn and understand the material you study for than to just pass. Another thing with certs is that their reputation can change very quickly. Say maybe in a couple years the OSCP sucks for whatever reason and isn't as reputible as it once was. I may just take it anyways because I know I'll learn a ton and that's what truly matters. When I was studying for the Network+ exam I read Mike Meyer's textbook front to back and took notes. By the end of reading the entire thing I had learned a lot about networking. I think part of it is that it forces you to memorize so much, and with these exams you can't just get by with memorization. You need to understand the actual concepts as well. This combination of memorizing and understanding concepts and topics really helps with learning new material.
+My thoughts on certifications is that they are definitely not the end all be all. I think it's more important if you really learn and understand the material you study for than to just pass. Another thing with certs is that their reputation can change very quickly. Say maybe in a couple years the OSCP sucks for whatever reason and isn't as reputable as it once was. I may just take it anyways because I know I'll learn a ton and that's what truly matters. When I was studying for the Network+ exam I read Mike Meyer's textbook front to back and took notes. By the end of reading the entire thing I had learned a lot about networking. I think part of it is that it forces you to memorize so much, and with these exams you can't just get by with memorization. You need to understand the actual concepts as well. This combination of memorizing and understanding concepts and topics really helps with learning new material.
 
 This list isn't final either. Maybe I decide to take the eJPT or CEH instead. Doesn't really matter to me. I like certifications because for me it's a great method for me to learn new material. Having to spend $200+ per exam is also a really great motivator to make sure you pass on your first try. It forces you to study in a very efficient manner.
 
