@@ -100,6 +100,8 @@ The end goal is definitely pentester, but goals can change. Maybe I'm content wi
 * *The Cuckoo's Egg*, Clifford Stoll
 * *The Art of Invisibility*, Keivin Mitnick
 * *Atomic Habits*, James Clear
+* *Longitude*, Dava Sobel
+* *A Thread Accross The Ocean*, John Gordon
 
 Textbooks:
 
@@ -111,7 +113,6 @@ Textbooks:
 
 * *The Art of Deception*, Kevin Mitnick
 * *The Big Short*, Michael Lewis
-* *Longitude*, Dava Sobel
 * *Empires of Light*, Jill Jonnes
 * *American Kingpin*, Nick Bilton
 * *This Is How They Tell Me the World Ends*, Nicole Perlroth
