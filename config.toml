@@ -50,8 +50,8 @@ SectionPagesMenu = "main"
   url = "/post/index.xml"
 
 [params.meta]
-  keywords = "blog, tech"
-  description = "Personal blog."
+  keywords = "blog, tech, computers, cybesecurity"
+  description = "The greatest blog ever created"
 
 [params]
   github = "have-no-clue-what-im-doing"
