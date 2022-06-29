@@ -3,7 +3,7 @@ title = "Broderic Duncan"
 copyright = "Copyright &copy; 2022 😎"
 canonifyurls = true
 languageCode = "en-US"
-paginate = 3
+paginate = 5
 theme = "hugo-dusk"
 
 
