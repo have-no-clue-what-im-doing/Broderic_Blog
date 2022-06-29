@@ -1,5 +1,5 @@
 +++
-title = "I finally figured out how to print from my iPhone"
+title = "Printing From My iPhone"
 description = ""
 tags = [
     "printers", "dell", "ios",
