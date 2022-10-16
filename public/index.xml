@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2022 😎</copyright>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I&#39;m Cancelling My Voter Registration </title>
+      <link>/post/why-im-unregistering-to-vote/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/why-im-unregistering-to-vote/</guid>
+      <description>Short answer: Voter registration is public information.
+Long answer:
+In a world where it&amp;rsquo;s already far too easy to dox someone, public voter registration makes it 10x easier. Yeah, I seriously did not know that my registration would become public, otherwise I wouldn&amp;rsquo;t have even bothered registering. You can visit this site to see each state&amp;rsquo;s laws on what information is kept public and what is kept confidential.
+What&amp;rsquo;s even more funny is that you don&amp;rsquo;t even have to go out and download those zip and tar files.</description>
+    </item>
+    
     <item>
       <title>Printing From My iPhone</title>
       <link>/post/printing-from-my-iphone/</link>
@@ -15,6 +27,16 @@
       
       <guid>/post/printing-from-my-iphone/</guid>
       <description>For the longest time I&amp;rsquo;ve never been able to print from my iPhone to the Dell printer in my parent&amp;rsquo;s house. I&amp;rsquo;m not exactly sure when we got the printer but I know it&amp;rsquo;s at least been like 7+ years. The printer in question is the Dell 2155cn Color MFP. According to the copyright on the user guide, the printer was released in 2010. That makes the printer a decade+ old.</description>
+    </item>
+    
+    <item>
+      <title>Networking My Parents&#39; House</title>
+      <link>/post/networking-a-house/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/networking-a-house/</guid>
+      <description>So before I began this project, it was clear that the network closet was a mess:
+Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial.</description>
     </item>
     
     <item>
@@ -34,18 +56,6 @@
       <guid>/about/</guid>
       <description>Hi I&amp;rsquo;m Broderic and I have no clue how to use computers.
 I&amp;rsquo;m currently pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I&amp;rsquo;m working on. Documentation is a huge part of IT and I don&amp;rsquo;t think it hurts to practice that skill every now and then.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/networking-a-house/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/networking-a-house/</guid>
-      <description>title = &amp;ldquo;Networking My Parents&amp;rsquo; House&amp;rdquo; description = &amp;quot;&amp;quot; tags = [ &amp;ldquo;networking&amp;rdquo;, &amp;ldquo;unifi&amp;rdquo;, &amp;ldquo;ubiquiti&amp;rdquo;, ] date = &amp;ldquo;2022-06-01&amp;rdquo;
-+++
-So before I began this project, it was clear that the network closet was a mess:
-Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner.</description>
     </item>
     
   </channel>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Broderic Duncan</title>
-    <link>/tags/blog/</link>
-    <description>Recent content in blog on Broderic Duncan</description>
+    <title>rant on Broderic Duncan</title>
+    <link>/tags/rant/</link>
+    <description>Recent content in rant on Broderic Duncan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2022 😎</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I&#39;m Cancelling My Voter Registration </title>
       <link>/post/why-im-unregistering-to-vote/</link>
@@ -18,15 +18,6 @@
 Long answer:
 In a world where it&amp;rsquo;s already far too easy to dox someone, public voter registration makes it 10x easier. Yeah, I seriously did not know that my registration would become public, otherwise I wouldn&amp;rsquo;t have even bothered registering. You can visit this site to see each state&amp;rsquo;s laws on what information is kept public and what is kept confidential.
 What&amp;rsquo;s even more funny is that you don&amp;rsquo;t even have to go out and download those zip and tar files.</description>
-    </item>
-    
-    <item>
-      <title>Thoughts on Hugo</title>
-      <link>/post/thoughts-on-hugo/</link>
-      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/thoughts-on-hugo/</guid>
-      <description>I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&amp;rsquo;s site. You can scroll to the bottom to get an exact example of what I&amp;rsquo;m talking about. If you click on the link you can see Hugo advertised as: &amp;ldquo;One of the most popular open-source static site generators.&amp;rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with.</description>
     </item>
     
   </channel>
