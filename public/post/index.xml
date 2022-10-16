@@ -18,22 +18,24 @@
     </item>
     
     <item>
-      <title>Networking My Parents&#39; House</title>
-      <link>/post/networking-a-house/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/networking-a-house/</guid>
-      <description>So before I began this project, it was clear that the network closet was a mess:
-Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial.</description>
-    </item>
-    
-    <item>
       <title>Thoughts on Hugo</title>
       <link>/post/thoughts-on-hugo/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/thoughts-on-hugo/</guid>
       <description>I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&amp;rsquo;s site. You can scroll to the bottom to get an exact example of what I&amp;rsquo;m talking about. If you click on the link you can see Hugo advertised as: &amp;ldquo;One of the most popular open-source static site generators.&amp;rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/networking-a-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/networking-a-house/</guid>
+      <description>title = &amp;ldquo;Networking My Parents&amp;rsquo; House&amp;rdquo; description = &amp;quot;&amp;quot; tags = [ &amp;ldquo;networking&amp;rdquo;, &amp;ldquo;unifi&amp;rdquo;, &amp;ldquo;ubiquiti&amp;rdquo;, ] date = &amp;ldquo;2022-06-01&amp;rdquo;
++++
+So before I began this project, it was clear that the network closet was a mess:
+Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner.</description>
     </item>
     
   </channel>

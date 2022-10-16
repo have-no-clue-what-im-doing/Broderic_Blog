@@ -23,18 +23,6 @@
     <loc>/tags/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/networking/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/networking-a-house/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ubiquiti/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/unifi/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/blog/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -46,6 +34,8 @@
   </url><url>
     <loc>/about/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/networking-a-house/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>
