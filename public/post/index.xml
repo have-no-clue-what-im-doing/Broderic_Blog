@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2022 😎</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I&#39;m Cancelling My Voter Registration </title>
-      <link>/post/why-im-unregistering-to-vote/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <title>RIP AirDrop</title>
+      <link>/post/rip-airdrop/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/why-im-unregistering-to-vote/</guid>
-      <description>Short answer: Voter registration is public information.
-Long answer:
-In a world where it&amp;rsquo;s already far too easy to dox someone, public voter registration makes it 10x easier. Yeah, I seriously did not know that my registration would become public, otherwise I wouldn&amp;rsquo;t have even bothered registering. You can visit this site to see each state&amp;rsquo;s laws on what information is kept public and what is kept confidential.
-What&amp;rsquo;s even more funny is that you don&amp;rsquo;t even have to go out and download those zip and tar files.</description>
+      <guid>/post/rip-airdrop/</guid>
+      <description>According to this article from CNBC, Apple will be changing how AirDrop works.
+Originally, AirDrop had three options:
+Receiving off Contacts Only Everyone Having the third option selected is pretty self explanatory, it allowed you to received messages from anyone.
+But now they&amp;rsquo;re going to be changing that third option to &amp;ldquo;Everyone (For 10 Minutes)&amp;rdquo; This means that AirDrop will be enabled to receive messages from anyone for only 10 minutes at a time.</description>
     </item>
     
     <item>
