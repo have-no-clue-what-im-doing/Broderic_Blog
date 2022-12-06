@@ -28,7 +28,7 @@ I want to end this little post by commemorating my best AirDrops.
 
 **Date:** Autumn 2018  
 **Context:** During Pre-Calc class  
-**Recipient:** Mrs. Davis 
+**Recipient:** Mrs. Davis  
 **Image:**
 ![Stickshift](/airdrop/stickshift.jpg)
 **Reaction:** Eeeeewwww, what is this? I want this off my phone right now. Disgusting. 
