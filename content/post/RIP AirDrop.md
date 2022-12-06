@@ -46,7 +46,7 @@ I want to end this little post by commemorating my best AirDrops.
 Waiting for English class to start  
 **Recipient:** A bunch of college students  
 **Image:**  
-![pizzawithfeathertoppings](/airdrop/freebird.png)  
+![pizzawithfeathertoppings](/airdrop/freebird.jpg)  
 **Reaction:** What the hell am I looking at?
 
 Those are just a few examples of some AirDrops from recent memory.  
