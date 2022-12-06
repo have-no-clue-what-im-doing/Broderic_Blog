@@ -52,11 +52,11 @@ Waiting for English class to start
 Those are just a few examples of some AirDrops from recent memory.  
 Here's a couple that I received myself in response. I have yet to receive an unsolicited AirDrop.
 
-**Date:**Summer 2022  
+**Date:** Summer 2022  
 **Context:** Waiting for food to arrive at Los Cabos  
 **Sender:** Pretty sure it was some girl sitting behind us  
 **Image:**  
-![dogshit](airdrop/dog.jpg)  
+![dogshit](airdrop/dogshit.jpg)  
 **Reaction:** Why is he holding dog shit with his bare hand?
 
 **Date:** Summer 2021  
