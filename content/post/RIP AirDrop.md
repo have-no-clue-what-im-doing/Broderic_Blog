@@ -2,7 +2,7 @@
 title = "RIP AirDrop"
 description = ""
 tags = [
-    "blog"
+    "blog", "airdrop", "apple"
 ]
 date = "2022-12-03"
 
@@ -28,7 +28,7 @@ I want to end this little post by commemorating my best AirDrops.
 
 **Date:** Autumn 2018  
 **Context:** During Pre-Calc class  
-**Recipient:** Teacher  
+**Recipient:** Mrs. Davis 
 **Image:**
 ![Stickshift](/airdrop/stickshift.jpg)
 **Reaction:** Eeeeewwww, what is this? I want this off my phone right now. Disgusting. 
@@ -41,11 +41,10 @@ I want to end this little post by commemorating my best AirDrops.
 **Reaction:** My brother laughing hysterically at 10+ people accepting the AirDrop.
 
 **Date:** Fall 2021  
-**Context:**   
-Waiting for English class to start  
+**Context:** Waiting for English class to start  
 **Recipient:** A bunch of college students  
 **Image:**  
-![pizzawithfeathertoppings](/airdrop/freebird.jpg)  
+![pizzawithfeathertoppings](/airdrop/freebird.jpg)
 **Reaction:** What the hell am I looking at?
 
 Those are just a few examples of some AirDrops from recent memory.  

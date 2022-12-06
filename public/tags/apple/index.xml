@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apple on Broderic Duncan</title>
+    <link>/tags/apple/</link>
+    <description>Recent content in apple on Broderic Duncan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2022 😎</copyright>
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RIP AirDrop</title>
+      <link>/post/rip-airdrop/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rip-airdrop/</guid>
+      <description>According to this article from CNBC, Apple will be changing how AirDrop works.
+Originally, AirDrop had three options:
+Receiving off Contacts Only Everyone Having the third option selected is pretty self explanatory, it allowed you to received messages from anyone.
+But now they&amp;rsquo;re going to be changing that third option to &amp;ldquo;Everyone (For 10 Minutes)&amp;rdquo; This means that AirDrop will be enabled to receive messages from anyone for only 10 minutes at a time.</description>
+    </item>
+    
+  </channel>
+</rss>
