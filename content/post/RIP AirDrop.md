@@ -33,39 +33,40 @@ I want to end this little post by commemorating my best AirDrops.
 ![Stickshift](/airdrop/stickshift.jpg)
 **Reaction:** Eeeeewwww, what is this? I want this off my phone right now. Disgusting. 
 
-**Date:** Summer 2022
-**Context:** Waiting for plane to take off
-**Recipient:** Multiple strangers
-**Image:**
-![whippits](/airdrop/whippits.jpg)
+**Date:** Summer 2022  
+**Context:** Waiting for plane to take off  
+**Recipient:** Multiple strangers  
+**Image:**  
+![whippits](/airdrop/whippits.jpg)    
 **Reaction:** My brother laughing hysterically at 10+ people accepting the AirDrop.
 
 
-**Date:** Fall 2021
-**Context:** Waiting for English class to start
-**Recipient:** A bunch of college students
-**Image:**
-![pizzawithfeathertoppings](/airdrop/pizzawithfeatherdroppings.png)
+**Date:** Fall 2021  
+**Context:**   
+Waiting for English class to start  
+**Recipient:** A bunch of college students  
+**Image:**  
+![pizzawithfeathertoppings](/airdrop/freebird.png)  
 **Reaction:** What the hell am I looking at?
 
 Those are just a few examples of some AirDrops from recent memory.  
 Here's a couple that I received myself in response. I have yet to receive an unsolicited AirDrop.
 
-**Date:** Summer 2022
-**Context:** Waiting for food to arrive at Los Cabos
-**Sender:** Pretty sure it was some girl sitting behind us
-**Image:**
-![dogshit](airdrop/dogshit.jpg)
+**Date:**Summer 2022  
+**Context:** Waiting for food to arrive at Los Cabos  
+**Sender:** Pretty sure it was some girl sitting behind us  
+**Image:**  
+![dogshit](airdrop/dogshit.jpg)  
 **Reaction:** Why is he holding dog shit with his bare hand?
 
-**Date:** Summer 2021
-**Context:** Waiting at the DMV to renew my license
-**Sender:** Some dude sitting across from me
-**Image:**
-![duuurrr](/airdrop/duuurrr.jpg)
+**Date:** Summer 2021  
+**Context:** Waiting at the DMV to renew my license  
+**Sender:** Some dude sitting across from me  
+**Image:**  
+![duuurrr](/airdrop/duuurrr.jpg)  
 **Reaction:** Beautiful
 
-I've got plenty more but it's a pain in the ass looking for these some that's enough photo searching for now.
+I've got plenty more but it's a pain in the ass looking for these. I refuse to waste anymore time on this.
 
 Rest in peace AirDrop. There will never be anything like you again. And fuck Apple.
 
