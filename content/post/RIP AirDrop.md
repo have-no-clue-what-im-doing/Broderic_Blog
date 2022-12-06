@@ -56,7 +56,7 @@ Here's a couple that I received myself in response. I have yet to receive an uns
 **Context:** Waiting for food to arrive at Los Cabos  
 **Sender:** Pretty sure it was some girl sitting behind us  
 **Image:**  
-![dogshit](airdrop/dogshit.jpg)  
+![dogshit](airdrop/dog.jpg)  
 **Reaction:** Why is he holding dog shit with his bare hand?
 
 **Date:** Summer 2021  
