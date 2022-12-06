@@ -25,11 +25,49 @@ Apple is planning on having the AirDrop change implemented within a year, with C
 Honestly, now what am I supposed to do to entertain myself while waiting in line, or waiting for class to start? I AirDropped people while waiting in line for the pharmacy, groceries, a doctor's appointment, the list goes on. Any idle time when I am surrounded by strangers was a time to pull out AirDrop and see what would be accepted. Now those times are coming to an end. 
 
 I want to end this little post by commemorating my best AirDrops. 
+
 **Date:** Autumn 2018  
 **Context:** During Pre-Calc class  
-**Recipient:** Teacher
+**Recipient:** Teacher  
 **Image:**
+![Stickshift](/airdrop/stickshift.jpg)
+**Reaction:** Eeeeewwww, what is this? I want this off my phone right now. Disgusting. 
+
+**Date:** Summer 2022
+**Context:** Waiting for plane to take off
+**Recipient:** Multiple strangers
+**Image:**
+![whippits](/airdrop/whippits.jpg)
+**Reaction:** My brother laughing hysterically at 10+ people accepting the AirDrop.
 
 
-![Network closet is a huge mess.](/airdrop/stickshift.jpg)
+**Date:** Fall 2021
+**Context:** Waiting for English class to start
+**Recipient:** A bunch of college students
+**Image:**
+![pizzawithfeathertoppings](/airdrop/pizzawithfeatherdroppings.png)
+**Reaction:** What the hell am I looking at?
+
+Those are just a few examples of some AirDrops from recent memory.  
+Here's a couple that I received myself in response. I have yet to receive an unsolicited AirDrop.
+
+**Date:** Summer 2022
+**Context:** Waiting for food to arrive at Los Cabos
+**Sender:** Pretty sure it was some girl sitting behind us
+**Image:**
+![dogshit](airdrop/dogshit.jpg)
+**Reaction:** Why is he holding dog shit with his bare hand?
+
+**Date:** Summer 2021
+**Context:** Waiting at the DMV to renew my license
+**Sender:** Some dude sitting across from me
+**Image:**
+![duuurrr](/airdrop/duuurrr.jpg)
+**Reaction:** Beautiful
+
+I've got plenty more but it's a pain in the ass looking for these some that's enough photo searching for now.
+
+Rest in peace AirDrop. There will never be anything like you again. And fuck Apple.
+
+
 
