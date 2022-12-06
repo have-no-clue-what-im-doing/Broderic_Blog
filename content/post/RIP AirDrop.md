@@ -24,13 +24,12 @@ Apple is planning on having the AirDrop change implemented within a year, with C
 
 Honestly, now what am I supposed to do to entertain myself while waiting in line, or waiting for class to start? I AirDropped people while waiting in line for the pharmacy, groceries, a doctor's appointment, the list goes on. Any idle time when I am surrounded by strangers was a time to pull out AirDrop and see what would be accepted. Now those times are coming to an end. 
 
-I want to end this little post by commemorating my best AirDrops. (Okay, commemorate may too strong a word.)
-
+I want to end this little post by commemorating my best AirDrops. 
 **Date:** Autumn 2018  
 **Context:** During Pre-Calc class  
 **Recipient:** Teacher
 **Image:**
 
 
-![Network closet is a huge mess.](/networking/one.jpg)
+![Network closet is a huge mess.](/airdrop/stickshift.jpg)
 
