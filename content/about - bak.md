@@ -10,25 +10,7 @@ I'm currently pursuing a degree in IT with a focus on cybersecurity. I created t
 
 ---
 
-## IT Experience:
-
-#### Current Job - IT Support Specialist for a warehouse of 200+ people
-
-*July 2022 - Present*
-
-I love this job. I have amazing co-workers who actually know how to use a computer and aren't incompetent dumbasses. This place didn't really have any IT for the past 3 years and was pretty much the wild west. Almost no documentation, shared passwords, no print server (we have like 100 printers here) Actually the only negative is the stupid amount of printers I have to maintain. Fuck printers. Oh, also I inherited Ubiquiti network infrastructure. I have four words for anyone thinking about using Ubiquiti in an enterprise environment: IT DOES NOT SCALE. The amount of times I've had to reboot the switches and AP's is ridiculous. So in summary:
-
-Pros:
-* Co-workers are amazing:
-	* They're hilarious
-	* Aren't retarded
-	* Know how to use a computer
-* My boss is all the way in Utah so I don't have anyone micromanaging me.
-
-Cons:
-* Way too many printers
-* Unifi AP's suck ass
-
+## Previous IT Experience:
 
 #### Charity Place - IT Support Co-op 
 
