@@ -61,6 +61,7 @@ I was assigned a group of 6 students to teach them the fundamentals of IT and he
 *November 2018 - May 2019*
 
 An independent cell phone repair shop, as the name suggests. I repaired iPhones, iPads, Androids, and laptops. I pretty much had to train myself on everything. My boss would hand me a phone and I'd just have to pull up a YouTube video to make sure I was doing the repair correctly. The job was definitely stressful at times. Not a fun experience performing a repair with no prior training. I honestly didn't know what I was doing half the time. The cherry on top was getting paid minimum wage. Never again. 
+
 ---
 
 ## Education
