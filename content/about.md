@@ -17,6 +17,7 @@ I'm currently pursuing a degree in IT with a focus on cybersecurity. I created t
 *July 2022 - Present*
 
 I currently work for a warehouse that operates as the number one seller on Amazon. I help manage, maintain, and troubleshoot over 100 printers and computers.
+
 After a year of working here I am no longer afraid of the scissor lift! 
 
 
