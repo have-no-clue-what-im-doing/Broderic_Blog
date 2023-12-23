@@ -6,7 +6,7 @@ date = "2022-05-07"
 
 Hi I'm Broderic and I have no clue how to use computers. 
 
-I'm currently pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
+I'm currently pursuing a double major in IT and Cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
 
 ---
 
@@ -59,62 +59,52 @@ An independent cell phone repair shop, as the name suggests. I repaired iPhones,
 
 University of Cincinnati {{< line_break >}}
 2019 - 2024 {{< line_break >}}
-B.S. in Information Technology {{< line_break >}}
-Concentration on cybersecurity & networking/systems
+Double Major in Information Technology & Cybersecurity {{< line_break >}}
 
 ---
 
 ## Interests & Goals
 
-My top interest is definitely cybersecurity. Specifically pentesting. The problem is I am nowhere near qualified to work as a professional pentester. The plan I've come up with focuses on three categories:
+I'd say I am currently interested in the following areas:
 
-* Certifications
-* Programming
-* CTF
+* System Administration
+	* Entra ID
+	* Intune
+	* Domain Controllers and Servers
+	* Google Admin
+	* Linux
+* Networking & Infrastructure
+* Cloud Computing
+	* AWS
+	* Azure
+* Virtualization
+	* ESXi
+	* Proxmox
+* Web Dev / Scripting
+	* ReactJS
+	* Python
+	* Javascript
+	* Bash
 
-#### Certifications 
+What I am not interested in:
+* Printers
+	* I hate these with an absolute passion and want nothing to do with them. Although I am open to making exceptions. 
+* Security
+	* Obviously you need to aware of best security practices at all times, but I am not too interested in really specializing in cybersecurity. From what I can tell a lot of cybersecurity is just creating and implementing policies. It is also hyper competitive and can be the first department to be laid off if a company is struggling. I would rather have a role that is more focused on development and project creation, rather than playing detective all day, patching holes, and writing policies. {{< line_break >}}
+	There are obviously exceptions, but from what I can tell, most security jobs seem underwhelming and not too exciting to me. 
 
-I want to work my way up to eventually obtaining the OSCP. The plan is to get these certs in this order:
 
-* Security+
-* Linux+
-* CYSA+
-* Pentest+
-* OSCP
-
-#### Programming
-
-Think the most straightforward way of learning programming is to just program. Reading about programming can help, but it won't actually get me anywhere. Need to start with simple projects and then work my up to more complex projects. Also have to learn both low level languages and scripting languages. 
-
-For Scripting:
-
-* Python
-* Javascript/Node.js
-* Powershell
-* Bash
-
-And for low level:
-
-* Assembly
-* C
-* C++
-
-I think learning C & Python first should be a good starting point. Especially C. I can kind of learn all the scripting languages together, but I think it's important to make sure I have a good understanding of C before branching off into other low level languages. The reason being a lot of other languages are written in C, and Assembly is I think a little too low level to start out with.
-
-#### CTF
-
-Once I've become decent at working my way through a Linux terminal and can program a bit I'll start competing in CTF's. Start going on [ctftime.org](https://ctftime.org) and work my up from easy to more challenging competitions. Also wouldn't hurt to practice with [hackthebox](https://hackthebox.com) and [tryhackme](https://tryhackme.com) as well.
 
 
 ---
 
 ## Books
 
-#### Recommended:
+Sometimes I like to take a break from staring at my glowing rectangles and instead stare at a bunch of dead tree:
 
 * *Sandworm*, Andy Greenberg
 * *Steve Jobs*, Walter Isaacson
-* *Elon Musk*, Ashlee Vance
+* *Elon Musk*, Walter Isaacson
 * *Ghost in the Wires*, Kevin Mitnick
 * *Countdown to Zero Day*, Kim Zetter
 * *The Cuckoo's Egg*, Clifford Stoll
@@ -123,21 +113,6 @@ Once I've become decent at working my way through a Linux terminal and can progr
 * *Longitude*, Dava Sobel
 * *A Thread Accross The Ocean*, John Gordon
 
-Textbooks:
-
-* *CompTIA Network+ / Seventh Edition*, Mike Meyers
-* *Open Source Intelligence Technqiues*, Michael Bazzell
-* *Extreme Privacy: What It Takes to Disappear*, Michael Bazzell
-
-### To Be Read: 
-
-* *UNIX: A History and a Memoir*, Brian Kernighan
-* *The Big Short*, Michael Lewis
-* *Empires of Light*, Jill Jonnes
-* *American Kingpin*, Nick Bilton
-* *The Art of Deception*, Kevin Mitnick
-* *This Is How They Tell Me the World Ends*, Nicole Perlroth
-* *Cyber Mercenaries*, Tim Maurer
 
 
 ---

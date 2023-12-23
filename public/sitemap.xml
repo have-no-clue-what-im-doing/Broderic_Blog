@@ -2,26 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/airdrop/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/apple/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/rip-airdrop/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/dell/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
@@ -29,10 +11,16 @@
     <loc>/tags/ios/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/printers/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/printing-from-my-iphone/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/networking/</loc>
@@ -46,6 +34,9 @@
   </url><url>
     <loc>/tags/unifi/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/blog/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/hugo/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
