@@ -12,13 +12,11 @@ I'm currently pursuing a double major in IT and Cybersecurity. I created this si
 
 ## IT Experience:
 
-#### Current Job - IT Support Specialist for a warehouse of 200+ people
+#### Current Job - IT Support for a warehouse of 300+ people
 
-*July 2022 - Present*
+*July 2022 - February 2023*
 
-I currently work for a warehouse that operates as the number one seller on Amazon. I help manage, maintain, and troubleshoot over 100 printers and computers.
-
-After a year of working here I am no longer afraid of the scissor lift! 
+Was the solo IT guy on first shift for a warehouse that operates as the number one seller on Amazon. Looked over 400+ assets. Computers, laptops, mobile scan guns, and of course label printers. Did all maintenance and troubleshooting for all assets and also helped managed third shift IT.
 
 
 #### Charity Place - IT Support Co-op 
