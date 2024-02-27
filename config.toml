@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Broderic Duncan"
-copyright = "Copyright &copy; 2022 😎"
+copyright = "Copyright &copy; 2024 😎"
 canonifyurls = true
 languageCode = "en-US"
 paginate = 5
@@ -50,13 +50,14 @@ SectionPagesMenu = "main"
   url = "/post/index.xml"
 
 [params.meta]
-  keywords = "blog, tech, computers, cybesecurity"
-  description = "The greatest blog ever created"
+  keywords = "blog, tech, computers, cybesecurity, hack, hacking, broderic"
+  description = "Just another blog floating around in the sea of the WWW"
 
 [params]
   github = "have-no-clue-what-im-doing"
   linkedin = "dontputnamehere"
   email = "brodericjduncan@gmail.com"
+  youtube = "yeet"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
   utterancesTheme="github-dark" # Default: github-dark

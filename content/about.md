@@ -12,11 +12,27 @@ I'm currently pursuing a double major in IT and Cybersecurity. I created this si
 
 ## IT Experience:
 
-#### Current Job - IT Support for a warehouse of 300+ people
+#### Current Job - IT Support L2 for a warehouse of 300+ people
 
 *July 2022 - February 2023*
 
-Was the solo IT guy on first shift for a warehouse that operates as the number one seller on Amazon. Looked over 400+ assets. Computers, laptops, mobile scan guns, and of course label printers. Did all maintenance and troubleshooting for all assets and also helped managed third shift IT.
+Helped put in place proper IT processes and procedures for a warehouse that previously had no IT presence. I Was the solo IT guy on first shift for a warehouse that operates as the number one seller on Amazon. Looked over 400+ assets. Computers, laptops, mobile scan guns, and of course label printers. Did all maintenance and troubleshooting for all assets and also helped managed third shift IT. My work included:
+* Asset and Supplies Management
+	* Responsible for all 400+ IT assets (Laptops, Scanners, Printers, Monitors)
+	* Negotiated and ordered supplies and equipment when needed
+* System Administration & Troubleshooting
+	* Responsible for onboarding and offboarding of all warehouse employees
+ 	* Performed troubleshooting for laptops, desktops, printers, and network infrastructure
+ 	* Created documentation and training for co-workers
+ 	* Created automation scripts with Python 
+ 	* Managing Azure AD with Intune, GPOs, and Powershell scripts
+ 	* Installing and managing 100+ printers on Windows Print Server
+	* Did remote support for other company locations
+* Warehouse Conveyor Project
+	* Helped plan and execute project where 100+ computers, scanners, and label printers were installed on workstations alongside conveyor belts
+
+
+ 	
 
 
 #### Charity Place - IT Support Co-op 
@@ -71,26 +87,39 @@ I'd say I am currently interested in the following areas:
 	* Domain Controllers and Servers
 	* Google Admin
 	* Linux
+* Cybersecurity
+	* NetSec
+	* Infrastructure Security
+	* Web Application Security
+	* Reverse Malware Engineer
+	* DevOpsSec
 * Networking & Infrastructure
+* DevOps
 * Cloud Computing
 	* AWS
 	* Azure
 * Virtualization
-	* ESXi
+	* ESXi (RIP, thanks Broadcom)
 	* Proxmox
 * Web Dev / Scripting
 	* ReactJS
 	* Python
 	* Javascript
 	* Bash
+	* Powershell
+* Digital Forensics
 
 What I am not interested in:
 * Printers
-	* I hate these with an absolute passion and want nothing to do with them. Although I am open to making exceptions. 
-* Security
-	* Obviously you need to aware of best security practices at all times, but I am not too interested in really specializing in cybersecurity. From what I can tell a lot of cybersecurity is just creating and implementing policies. It is also hyper competitive and can be the first department to be laid off if a company is struggling. I would rather have a role that is more focused on development and project creation, rather than playing detective all day, patching holes, and writing policies. {{< line_break >}}
-	There are obviously exceptions, but from what I can tell, most security jobs seem underwhelming and not too exciting to me. 
+	* I hate these things with an absolute passion and want nothing to do with them. 
 
+I'd say my current cert path is the following: 
+* Security+ (2-4 weeks)
+* CCNA (6-8 months)
+* AWS-CCP (3-5 weeks)
+* Azure Fundamentals (3-5 weeks)
+
+The order isn't really set in stone. I do know I want to get the Security+ immediately after I graduate. Shouldn't be too hard of an exam to pass. I more open to whatever cert I think will help with my current job, or a job I want in the future. 
 
 
 
@@ -135,6 +164,7 @@ Sometimes I like to take a break from staring at my glowing rectangles and inste
 
 * [Darknet Diaries](https://darknetdiaries.com)
 * [Hacked](https://pca.st/hacked)
+* [Cyberwire](https://thecyberwire.com/)
 
 ---
 
