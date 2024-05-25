@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cmd on Broderic Duncan</title>
+    <link>/tags/cmd/</link>
+    <description>Recent content in cmd on Broderic Duncan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2024 😎</copyright>
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poor Man&#39;s Monitoring Tool</title>
+      <link>/post/poor-man-uptime-tracker/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/poor-man-uptime-tracker/</guid>
+      <description>A couple days ago I was messing around with the football-data.org API when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so.</description>
+    </item>
+    
+  </channel>
+</rss>

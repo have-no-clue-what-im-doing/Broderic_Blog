@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2024 😎</copyright>
-    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poor Man&#39;s Monitoring Tool</title>
+      <link>/post/poor-man-uptime-tracker/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/poor-man-uptime-tracker/</guid>
+      <description>A couple days ago I was messing around with the football-data.org API when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so.</description>
+    </item>
+    
     <item>
       <title>When we had both landlines and cellphones</title>
-      <link>/post/printing-from-my-iphone-copy/</link>
+      <link>/post/when-we-had-both-landlines-and-cellphones/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/post/printing-from-my-iphone-copy/</guid>
+      <guid>/post/when-we-had-both-landlines-and-cellphones/</guid>
       <description>Something I was just thinking about recently was our history of phones and how we used to all have a &amp;ldquo;home&amp;rdquo; phone. You know, just a phone that sits at home all day. A landline. Just about every home in America had one. Then suddenly cellphones came along, they got cheaper and cheaper until everyone had a flip phone in their pocket. And then one day, we each decided that there was no point in paying for a landline when we all had cell phones.</description>
     </item>
     
