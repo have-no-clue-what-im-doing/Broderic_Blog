@@ -23,6 +23,6 @@ Forget Uptime Kemu, this batch script is clearly better and much more sophistica
 
 The next morning I woke up to this master piece:
 
-![Finally getting replies back at 7:35am](/static/poor_man_uptime/uptime.png)
+![Finally getting replies back at 7:35am](/poor_man_uptime/uptime.png)
 
 Through my genius and ingenuity I was able to figure out that the network went back online at 7:35am. Doing some quick math the maintenance took over 7 hours. All that maintenance and my internet speed still did not improve, pathetic. 
