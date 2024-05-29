@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proxmox on Broderic Duncan</title>
+    <link>/tags/proxmox/</link>
+    <description>Recent content in proxmox on Broderic Duncan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2024 😎</copyright>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing a Network Rack in My House</title>
+      <link>/post/new-network-rack/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-network-rack/</guid>
+      <description>After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the post
+Here is a quick before and after:
+(Router and modem are upstairs. I have cable that runs directly to the switch here.)
+(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2024 😎</copyright>
-    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cyberpower</title>
+      <link>/tags/cyberpower/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cyberpower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>/tags/networking/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pfsense</title>
+      <link>/tags/pfsense/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pfsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poweredge</title>
+      <link>/tags/poweredge/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poweredge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxmox</title>
+      <link>/tags/proxmox/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubiquiti</title>
+      <link>/tags/ubiquiti/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ubiquiti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unifi</title>
+      <link>/tags/unifi/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vm</title>
+      <link>/tags/vm/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>/tags/blog/</link>
@@ -86,33 +158,6 @@
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/printers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>networking</title>
-      <link>/tags/networking/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubiquiti</title>
-      <link>/tags/ubiquiti/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ubiquiti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unifi</title>
-      <link>/tags/unifi/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/unifi/</guid>
       <description></description>
     </item>
     

@@ -25,4 +25,4 @@ The next morning I woke up to this master piece:
 
 ![Finally getting replies back at 7:35am](/poor_man_uptime/uptime.png)
 
-Through my genius and ingenuity I was able to figure out that the network went back online at 7:35am. Doing some quick math the maintenance took over 7 hours. All that maintenance and my internet speed is still shit, pathetic. 
+Through my genius and ingenuity I was able to figure out that the network went back online at 7:35am. After doing some heavy calculations for a couple hours, I figured out that the maintenance took roughly 7 hours and 30 minutes. All that maintenance and my internet speed is still shit, pathetic. 
