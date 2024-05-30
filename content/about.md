@@ -4,9 +4,9 @@ date = "2022-05-07"
 
 +++
 
-Hi I'm Broderic and I have no clue how to use computers. 
+Hi I'm Broderic and I have no clue how to use computers. I created this site to learn how.
 
-I'm currently pursuing a double major in IT and Cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
+I recently graduated with a double major in Information Technology and Cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
 
 ---
 
