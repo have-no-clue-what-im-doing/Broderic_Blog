@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2024 😎</copyright>
-    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>networking</title>
+      <link>/tags/networking/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ONT</title>
+      <link>/tags/ont/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDU</title>
+      <link>/tags/pdu/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>small brain</title>
+      <link>/tags/small-brain/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/small-brain/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>certification</title>
       <link>/tags/certification/</link>
@@ -41,15 +77,6 @@
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/cyberpower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>networking</title>
-      <link>/tags/networking/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/networking/</guid>
       <description></description>
     </item>
     

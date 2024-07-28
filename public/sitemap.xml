@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/networking/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ont/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pdu/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/small-brain/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/small-brain/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/certification/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
@@ -17,19 +38,10 @@
     <loc>/post/passing-the-security&#43;/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/cyberpower/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/new-network-rack/</loc>
-    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/networking/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/pfsense/</loc>
