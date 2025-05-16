@@ -4,225 +4,178 @@
     <title>Tags on Broderic Duncan</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Broderic Duncan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2024 😎</copyright>
-    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>networking</title>
+      <title>Networking</title>
       <link>/tags/networking/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/networking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ONT</title>
       <link>/tags/ont/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/ont/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PDU</title>
       <link>/tags/pdu/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/pdu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>small brain</title>
+      <title>Small Brain</title>
       <link>/tags/small-brain/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/small-brain/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>certification</title>
+      <title>Certification</title>
       <link>/tags/certification/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/certification/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CompTIA</title>
       <link>/tags/comptia/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/comptia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cybersecurity</title>
+      <title>Cybersecurity</title>
       <link>/tags/cybersecurity/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/cybersecurity/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cyberpower</title>
+      <title>Cyberpower</title>
       <link>/tags/cyberpower/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/cyberpower/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pfsense</title>
+      <title>Pfsense</title>
       <link>/tags/pfsense/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/pfsense/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>poweredge</title>
+      <title>Poweredge</title>
       <link>/tags/poweredge/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/poweredge/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>proxmox</title>
+      <title>Proxmox</title>
       <link>/tags/proxmox/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/proxmox/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ubiquiti</title>
+      <title>Ubiquiti</title>
       <link>/tags/ubiquiti/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/ubiquiti/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>unifi</title>
+      <title>Unifi</title>
       <link>/tags/unifi/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/unifi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vm</title>
+      <title>Vm</title>
       <link>/tags/vm/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/vm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>/tags/blog/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cmd</title>
+      <title>Cmd</title>
       <link>/tags/cmd/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/cmd/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>monitoring</title>
+      <title>Monitoring</title>
       <link>/tags/monitoring/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/monitoring/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>uptime</title>
+      <title>Uptime</title>
       <link>/tags/uptime/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/uptime/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>landline</title>
+      <title>Landline</title>
       <link>/tags/landline/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/landline/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>phones</title>
+      <title>Phones</title>
       <link>/tags/phones/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>/tags/phones/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dell</title>
+      <title>Dell</title>
       <link>/tags/dell/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/dell/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ios</title>
+      <title>Ios</title>
       <link>/tags/ios/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/ios/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>printers</title>
+      <title>Printers</title>
       <link>/tags/printers/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/printers/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>/tags/hugo/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/hugo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
