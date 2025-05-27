@@ -3,14 +3,37 @@ title = "About Me"
 date = "2022-05-07"
 
 +++
-sdlkfjsdlkfjdsklfjdslkfjsdf
-Hi I'm Broderic and I have no clue how to use computers. 
 
-I'm currently pursuing a degree in IT with a focus on cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
+Hi I'm Broderic and I have no clue how to use computers. I created this site to learn how.
+
+I recently graduated with a double major in Information Technology and Cybersecurity. I created this site for a couple reasons. The first being for me to have somewhere to write about and publish whatever I find interesting. And the second being I want to document any projects I'm working on. Documentation is a huge part of IT and I don't think it hurts to practice that skill every now and then.
 
 ---
 
-## Previous IT Experience:
+## IT Experience:
+
+#### Current Job - IT Support L2 for a warehouse of 300+ people
+
+*July 2022 - February 2023*
+
+Helped put in place proper IT processes and procedures for a warehouse that previously had no IT presence. I Was the solo IT guy on first shift for a warehouse that operates as the number one seller on Amazon. Looked over 400+ assets. Computers, laptops, mobile scan guns, and of course label printers. Did all maintenance and troubleshooting for all assets and also helped managed third shift IT. My work included:
+* Asset and Supplies Management
+	* Responsible for all 400+ IT assets (Laptops, Scanners, Printers, Monitors)
+	* Negotiated and ordered supplies and equipment when needed
+* System Administration & Troubleshooting
+	* Responsible for onboarding and offboarding of all warehouse employees
+ 	* Performed troubleshooting for laptops, desktops, printers, and network infrastructure
+ 	* Created documentation and training for co-workers
+ 	* Created automation scripts with Python 
+ 	* Managing Azure AD with Intune, GPOs, and Powershell scripts
+ 	* Installing and managing 100+ printers on Windows Print Server
+	* Did remote support for other company locations
+* Warehouse Conveyor Project
+	* Helped plan and execute project where 100+ computers, scanners, and label printers were installed on workstations alongside conveyor belts
+
+
+ 	
+
 
 #### Charity Place - IT Support Co-op 
 
@@ -43,68 +66,72 @@ I was assigned a group of 6 students to teach them the fundamentals of IT and he
 *November 2018 - May 2019*
 
 An independent cell phone repair shop, as the name suggests. I repaired iPhones, iPads, Androids, and laptops. I pretty much had to train myself on everything. My boss would hand me a phone and I'd just have to pull up a YouTube video to make sure I was doing the repair correctly. The job was definitely stressful at times. Not a fun experience performing a repair with no prior training. I honestly didn't know what I was doing half the time. The cherry on top was getting paid minimum wage. Never again. 
+
 ---
 
 ## Education
 
 University of Cincinnati {{< line_break >}}
 2019 - 2024 {{< line_break >}}
-B.S. in Information Technology {{< line_break >}}
-Concentration on cybersecurity & networking/systems
+Double Major in Information Technology & Cybersecurity {{< line_break >}}
 
 ---
 
 ## Interests & Goals
 
-My top interest is definitely cybersecurity. Specifically pentesting. The problem is I am nowhere near qualified to work as a professional pentester. The plan I've come up with focuses on three categories:
+I'd say I am currently interested in the following areas:
 
-* Certifications
-* Programming
-* CTF
+* System Administration
+	* Entra ID
+	* Intune
+	* Domain Controllers and Servers
+	* Google Admin
+	* Linux
+* Cybersecurity
+	* NetSec
+	* Infrastructure Security
+	* Web Application Security
+	* Reverse Malware Engineer
+	* DevOpsSec
+* Networking & Infrastructure
+* DevOps
+* Cloud Computing
+	* AWS
+	* Azure
+* Virtualization
+	* ESXi (RIP, thanks Broadcom)
+	* Proxmox
+* Web Dev / Scripting
+	* ReactJS
+	* Python
+	* Javascript
+	* Bash
+	* Powershell
+* Digital Forensics
 
-#### Certifications 
+What I am not interested in:
+* Printers
+	* I hate these things with an absolute passion and want nothing to do with them. 
 
-I want to work my way up to eventually obtaining the OSCP. The plan is to get these certs in this order:
+I'd say my current cert path is the following: 
+* Security+ (2-4 weeks)
+* CCNA (6-8 months)
+* AWS-CCP (3-5 weeks)
+* Azure Fundamentals (3-5 weeks)
 
-* Security+
-* Linux+
-* CYSA+
-* Pentest+
-* OSCP
+The order isn't really set in stone. I do know I want to get the Security+ immediately after I graduate. Shouldn't be too hard of an exam to pass. I more open to whatever cert I think will help with my current job, or a job I want in the future. 
 
-#### Programming
-
-Think the most straightforward way of learning programming is to just program. Reading about programming can help, but it won't actually get me anywhere. Need to start with simple projects and then work my up to more complex projects. Also have to learn both low level languages and scripting languages. 
-
-For Scripting:
-
-* Python
-* Javascript/Node.js
-* Powershell
-* Bash
-
-And for low level:
-
-* Assembly
-* C
-* C++
-
-I think learning C & Python first should be a good starting point. Especially C. I can kind of learn all the scripting languages together, but I think it's important to make sure I have a good understanding of C before branching off into other low level languages. The reason being a lot of other languages are written in C, and Assembly is I think a little too low level to start out with.
-
-#### CTF
-
-Once I've become decent at working my way through a Linux terminal and can program a bit I'll start competing in CTF's. Start going on [ctftime.org](https://ctftime.org) and work my up from easy to more challenging competitions. Also wouldn't hurt to practice with [hackthebox](https://hackthebox.com) and [tryhackme](https://tryhackme.com) as well.
 
 
 ---
 
 ## Books
 
-#### Recommended:
+Sometimes I like to take a break from staring at my glowing rectangles and instead stare at a bunch of dead tree:
 
 * *Sandworm*, Andy Greenberg
 * *Steve Jobs*, Walter Isaacson
-* *Elon Musk*, Ashlee Vance
+* *Elon Musk*, Walter Isaacson
 * *Ghost in the Wires*, Kevin Mitnick
 * *Countdown to Zero Day*, Kim Zetter
 * *The Cuckoo's Egg*, Clifford Stoll
@@ -113,21 +140,6 @@ Once I've become decent at working my way through a Linux terminal and can progr
 * *Longitude*, Dava Sobel
 * *A Thread Accross The Ocean*, John Gordon
 
-Textbooks:
-
-* *CompTIA Network+ / Seventh Edition*, Mike Meyers
-* *Open Source Intelligence Technqiues*, Michael Bazzell
-* *Extreme Privacy: What It Takes to Disappear*, Michael Bazzell
-
-### To Be Read: 
-
-* *UNIX: A History and a Memoir*, Brian Kernighan
-* *The Big Short*, Michael Lewis
-* *Empires of Light*, Jill Jonnes
-* *American Kingpin*, Nick Bilton
-* *The Art of Deception*, Kevin Mitnick
-* *This Is How They Tell Me the World Ends*, Nicole Perlroth
-* *Cyber Mercenaries*, Tim Maurer
 
 
 ---
@@ -152,6 +164,7 @@ Textbooks:
 
 * [Darknet Diaries](https://darknetdiaries.com)
 * [Hacked](https://pca.st/hacked)
+* [Cyberwire](https://thecyberwire.com/)
 
 ---
 

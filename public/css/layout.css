@@ -1,5 +1,5 @@
 body {
-  font-family: "Arial", Gadget, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, Gadget, sans-serif;
   counter-reset: heading;
   margin: 0;
 }
@@ -38,30 +38,32 @@ iframe {
 }
 
 li {
-  margin-top: 0.5em;
+  margin: 0.5em;
+  line-height: 1.6em;
 }
 
 p {
-  line-height: 1.5em;
+  line-height: 1.6em;
 }
 
 h1 { font-size: 2em;
-     font-weight: normal;
+     font-weight: bold;
+     margin-block: 0.67em;
 }
 h2 { font-size: 1.5em;
-     font-weight: normal;
+     font-weight: bold;
 }
 h3 { font-size: 1.17em;
-     font-weight: normal;
+     font-weight: bold;
 }
 h4 { font-size: 1.12em;
-     font-weight: normal;
+     font-weight: bold;
 }
 h5 { font-size: .83em;
-     font-weight: normal;
+     font-weight: bold;
 }
 h6 { font-size: .75em;
-     font-weight: normal;
+     font-weight: bold;
 }
 
 a:active, a:focus {
@@ -86,7 +88,7 @@ nav {
 }
 
 .nav-item {
-  font-size: 1.2em;
+  font-size: 1.3em;
   text-decoration: none;
   font-weight: bold;
 }
@@ -110,12 +112,14 @@ code {
   white-space: -pre-wrap;      /* Opera 4-6 */
   white-space: -o-pre-wrap;    /* Opera 7 */
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
-  line-height: 1.5em;
+  line-height: 1.6em;
 }
 
 blockquote {
   padding: 0.5em;
   padding-left: 1em;
+  margin-left: 0.8em;
+  margin-right: 0.8em;
 }
 
 th, td {
@@ -147,8 +151,7 @@ th, td {
 }
 
 .post .content{
-  padding-left : 1em;
-  padding-right : 1em;
+  padding: 1em;
 }
 
 .post .date {
@@ -161,23 +164,23 @@ th, td {
 }
 
 .post .content h1{
-  margin: 1em 0em;
+  margin: 1.2em 0em;
 }
 
 .post .content h2{
-  margin: 1em 0em;
+  margin: 1.2em 0em;
 }
 
 .post .content h3{
-  margin: 1em 0em;
+  margin: 1.2em 0em;
 }
 
 .post .content h4{
-  margin: 1em 0em;
+  margin: 1.2em 0em;
 }
 
 .post .content h5{
-  margin: 1em 0em;
+  margin: 1.2em 0em;
 }
 
 .post .content p{
@@ -198,14 +201,31 @@ th, td {
 }
 
 .post-footer-data .date {
-  font-weight: bold;
   text-align: right;
-  padding-top: 0.2em;
+  margin-top: 0.3em;
   padding-bottom: 0.2em;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.post-footer-data .updated {
+  text-align: right;
+  margin-top: 0.3em;
+  padding-bottom: 0.2em;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.post-footer-data .syndicate {
+  margin-top: 0.3em;
+  padding-bottom: 0.2em;
+  font-size: 0.9em;
+  font-weight: bold;
 }
 
 .post-footer-data .tag {
   font-weight: bold;
+  margin-bottom: 1em;
 }
 
 .post-footer-data .categories {
@@ -410,6 +430,43 @@ th, td {
   text-decoration: none;
 }
 
+/* micro post */
+
+.post .micro-content{
+  font-size: 1.1em;
+  padding-left : 1em;
+  padding-right : 1em;
+}
+
+.micro-footer-data {
+  padding-bottom: 1em;
+}
+
+.micro-footer-data .date {
+  text-align: left;
+  margin-top: 0.3em;
+  padding-bottom: 0.2em;
+  font-size: 0.8em;
+  padding-left: 1em;
+}
+
+.micro-footer-data .syndicate {
+  margin-top: 0.3em;
+  padding-bottom: 0.2em;
+  font-size: 0.9em;
+  padding-left: 1em;
+}
+
+.micro-footer-data .tags{
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 1em;
+}
+
+.micro-footer-data .tag a {
+  font-size: 0.9em;
+}
+
 /* summary list on main page  */
 
 .post-preview {
@@ -432,7 +489,6 @@ th, td {
   padding-left: 0.5em;
   padding-right: 0.5em;
   padding-top: 0.5em;
-  line-height: 1.5em;
 }
 
 .post-preview .summary p {
@@ -440,7 +496,6 @@ th, td {
   margin-block-end: 0.5em;
   margin-inline-start: 0.em;
   margin-inline-end: 0em;
-  line-height: 1.5em;
 }
 
 .post-preview .meta {
@@ -467,6 +522,30 @@ th, td {
   font-weight: bold;
   text-align: left;
   display: inline-block;
+}
+
+.post .metadata {
+  font-weight: 600;
+  font-size: 0.8em;
+  text-align: left;
+  padding: 1em;
+  line-height: 1.6em;
+}
+
+.metadata .tags .tag a {
+  text-decoration: underline;
+}
+
+.metadata .categories a {
+  text-decoration: underline;
+}
+
+.metadata .series a {
+  text-decoration: underline;
+}
+
+.metadata .syndicate a {
+  text-decoration: underline;
 }
 
 .rmore {
@@ -552,6 +631,34 @@ th, td {
   padding: 0.5em;
 }
 
+.author {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 1.8em;
+  margin-top: 6em;
+  margin-bottom: 6em;
+  text-align: center;
+  padding: 0 0.5em 0 0.5em;
+}
+
+.recent-post-list {
+  margin-bottom: 6em;
+  padding: 0 0.5em 0 0.5em;
+}
+
+.recent-post-item {
+  display: -webkit-flex;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+
+.recent-post-item .date{
+  text-align: right;
+  display:inline;
+}
+
 @media only screen and (min-width: 400px) {
 
   nav {
@@ -592,3 +699,77 @@ th, td {
   }
 }
 
+
+.alert-warning {
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+}
+
+.alert-warning .alert-heading{
+  font-weight: bold;
+}
+
+.alert-caution {
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+}
+
+.alert-caution .alert-heading{
+  font-weight: bold;
+}
+
+.alert-important {
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+}
+
+.alert-important .alert-heading{
+  font-weight: bold;
+}
+
+.alert-note {
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+}
+
+.alert-note .alert-heading{
+  font-weight: bold;
+}
+
+.alert-tip {
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+}
+
+.alert-tip .alert-heading{
+  font-weight: bold;
+}
+
+.related-content {
+  text-decoration: none;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+
+.related-content .title {
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+}
+
+/* target the details element */
+details { }
+
+/* target the summary element */
+details > summary {
+  padding: 0.3em;
+  text-decoration: underline;
+}
+
+/* target the children of the summary element */
+details > summary > * {
+}
+
+/* target the content */
+details > :not(summary) {
+}
