@@ -1,1 +1,1 @@
-[brodericduncan.com](https://brodericduncan.com)
+[broderic.blog](https://broderic.blog)
